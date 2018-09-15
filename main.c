@@ -12,5 +12,6 @@
 int main()
 {
 	double result = 0f;
+	printf("Hi");
 
 }
